@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733202729914",
+    "firebase_url": "https://collegearchivesandtimes-default-rtdb.firebaseio.com",
+    "project_id": "collegearchivesandtimes",
+    "storage_bucket": "collegearchivesandtimes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733202729914:android:d5695a5d685073bf2a2b83",
+        "android_client_info": {
+          "package_name": "com.example.cat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733202729914-ccisto0alb0vth2e62e9clntb69baaq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUHVBBjTL0e0iOT-6wnuYy5K5Zof7kJE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733202729914-ccisto0alb0vth2e62e9clntb69baaq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
